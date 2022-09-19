@@ -1,24 +1,164 @@
 {
-  "posts": [
+  "pdata": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "image": "https://www.bespokerealestate.com/wp-content/uploads/2020/03/271DuneRdBridgehampton_backv6.jpg",
+      "price": "$5,895",
+      "title": "271 Dune Road",
+      "address": "Bridgehampton, NY",
+      "location": "Florida",
+      "type": "bungalow",
+      "label": "high",
+      "month": 1
     },
     {
-      "id": 2,
-      "title": "anshu-server",
-      "author": "typicode"
+      "image": "https://www.bespokerealestate.com/wp-content/uploads/2022/03/DJI_0557-HIGH.jpg",
+      "price": "$7,895",
+      "title": "Water Mill",
+      "address": "Compound, NY",
+      "location": "Florida",
+      "type": "bungalow",
+      "label": "high",
+      "month": 4
     },
     {
-      "id": 3,
-      "title": "sharma-server",
-      "author": "typicode"
+      "image": "https://www.bespokerealestate.com/wp-content/uploads/2022/07/109_Glover_FrontAngle-WEB.jpg",
+      "price": "$6,895",
+      "title": "OCEANFRONT PENTHOUSE",
+      "address": "Hallandale Beach, FL",
+      "location": "Miami",
+      "type": "bungalow",
+      "label": "high",
+      "month": 2
     },
     {
-      "id": 4,
-      "title": "anshu-server",
-      "author": "typicode"
+      "image": "https://a0temcqkto3yttc25b1htyjn-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/2000S.OceanBlvd-HallandaleBeach_FL-1536x1024.jpg",
+      "price": "$1,495",
+      "title": "OCEANFRONT PENTHOUSE",
+      "address": "Hallandale Beach, FL",
+      "location": "Miami",
+      "type": "bungalow",
+      "label": "average",
+      "month": 7
+    },
+    {
+      "image": "https://a0temcqkto3yttc25b1htyjn-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/Waldor_Astoria-1536x1024.jpg",
+      "price": "$2,895",
+      "title": "PENTHOUSE/SKY RESIDENCES",
+      "address": "Waldorf Astoria Miami FL",
+      "location": "Miami",
+      "type": "bungalow",
+      "label": "average",
+      "month": 3
+    },
+    {
+      "image": "https://www.bespokerealestate.com/wp-content/uploads/2021/11/55_DavidsLn_Exteriors_highres-19-WEB.jpg",
+      "price": "$1995",
+      "title": "Private Modern Retreat",
+      "address": "Water Mill South, NY",
+      "location": "New York",
+      "type": "house",
+      "label": "average",
+      "month": 4
+    },
+    {
+      "image": "https://www.bespokerealestate.com/wp-content/uploads/2022/03/DJI_0557-HIGH.jpg",
+      "price": "$2,700",
+      "title": "Water Front Estate",
+      "address": "167 Dune Road Quogue, NY",
+      "location": "New York",
+      "type": "bungalow",
+      "label": "average",
+      "month": 9
+    },
+    {
+      "image": "https://www.bespokerealestate.com/wp-content/uploads/2022/06/662NoyacPathWaterMill_dronev2-1.jpg",
+      "price": "$4,500",
+      "title": "Compound Abutting",
+      "address": "Water Mill Compound, NY",
+      "location": "New York",
+      "type": "house",
+      "label": "high",
+      "month": 8
+    },
+    {
+      "image": "https://www.bespokerealestate.com/wp-content/uploads/2021/11/55_DavidsLn_Exteriors_highres-19-WEB.jpg",
+      "price": "$3,700",
+      "title": "Private Modern Retreat",
+      "address": "Water Mill South New York, NY",
+      "location": "New York",
+      "type": "house",
+      "label": "high",
+      "month": 3
+    },
+    {
+      "image": "https://tranio.com/photos/adt/1bce26bb/24109223/275x176.jpg",
+      "price": "$1000",
+      "title": "Town Home",
+      "address": "Scarborough, Toronto , Canada",
+      "location": "Canada",
+      "type": "house",
+      "label": "low",
+      "month": 5
+    },
+    {
+      "image": "https://tranio.com/photos/adt/28562a50/29753945/275x176.jpg",
+      "price": "$850",
+      "title": "Palm Harbor",
+      "address": "North York, Toronto , Canada",
+      "location": "Canada",
+      "type": "house",
+      "label": "low",
+      "month": 6
+    },
+    {
+      "image": "https://tranio.com/photos/adt/ab46a050/24204776/275x176.jpg",
+      "price": "$2000",
+      "title": "Faulker Ave",
+      "address": "North York, Toronto , Canada",
+      "location": "Canada",
+      "type": "house",
+      "label": "average",
+      "month": 11
+    },
+    {
+      "image": "https://tranio.com/photos/adt/ee21766c/23780189/275x176.jpg",
+      "price": "$2250",
+      "title": "Villas Palacio",
+      "address": "Chicago, Illinois",
+      "location": "Chicago",
+      "type": "house",
+      "label": "average",
+      "month": 12
+    },
+    {
+      "image": "https://tranio.com/photos/adt/bcec0cd0/28635040/275x176.jpg",
+      "price": "$2210",
+      "title": "Nature Hut",
+      "address": "Chicago, Illinois",
+      "location": "Chicago",
+      "type": "apartment",
+      "label": "average",
+      "month": 10
+    },
+    {
+      "image": "https://tranio.com/photos/adt/bd54cc79/28634934/275x176.jpg",
+      "price": "$7000",
+      "title": "Luxury Apart. in Burj Khalifa",
+      "address": "Dubai,UAE",
+      "location": "UAE",
+      "type": "apartment",
+      "label": "high",
+      "month": 12
+    },
+    {
+      "image": "https://tranio.com/photos/adt/f5710668/28634874/275x176.jpg",
+      "price": "$6000",
+      "title": "High-Rise Residence",
+      "address": "Dubai,UAE",
+      "location": "UAE",
+      "type": "apartment",
+      "label": "high",
+      "month": 8
     }
   ]
 }
